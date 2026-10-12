@@ -1,0 +1,6 @@
+﻿sku,producto,categoria,talla,color,unidad,costo,precio,stock,stock_minimo,codigo_barras
+BLU-001-M,Blusa de lino,Ropa,M,Blanco,unidad,25,49.9,8,2,
+BLU-001-L,Blusa de lino,Ropa,L,Blanco,unidad,25,49.9,5,2,
+CAR-001,Cartera pequeña,Carteras,,Negro,unidad,40,79,3,1,
+ARE-001,Aretes dorados,Bisutería,,Dorado,par,8,19.9,12,3,
+COL-001,Collar corazón,Bisutería,,Dorado,unidad,12,29.9,6,2,
